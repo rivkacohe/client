@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ad6291dc7d4545f5c62f",
+    "revision": "085fcfa428c840779fcb",
     "url": "/gemolav/static/css/main.08ea1b6d.chunk.css"
   },
   {
-    "revision": "ad6291dc7d4545f5c62f",
-    "url": "/gemolav/static/js/main.ad6291dc.chunk.js"
+    "revision": "085fcfa428c840779fcb",
+    "url": "/gemolav/static/js/main.085fcfa4.chunk.js"
   },
   {
     "revision": "57fb75a2e8592a1edd30",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/gemolav/static/media/bootstrap-icons.52196284.woff"
   },
   {
-    "revision": "8d584c13c15774cc24582bf1ef2473a1",
+    "revision": "96ccf16d80a158e71a8e03b6f207eaf9",
     "url": "/gemolav/index.html"
   }
 ];
