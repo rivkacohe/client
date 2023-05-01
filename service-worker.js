@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gemolav/precache-manifest.c655b6e5a6dffe5d9b85395bd8572021.js"
+  "/gemolav/precache-manifest.937eeaf82902c15ed41234fd7d3a17e3.js"
 );
 
 workbox.clientsClaim();
